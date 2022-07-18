@@ -12,7 +12,7 @@ The first set of tutorials focus on planetary systems. Each tutorial provides in
 A more detailed light curve extraction process for each planetary system can be found with the notebook entitled:
 JWST-ERS-TESS-Lightcurve-Reduction.ipynb
 
-This notebook allows for the creation of the most refined TESS light-curves, applying more advanced noise removal techniques and providing the user with light curve files in both FITs format and CSV. These resultant files can be found within the lightcurve_data folder. The notebook also allows for the reduction of TESS data associated with several additional planets observed as part of JWST ERS programs, including: HAT-P-14, HAT-P-18, and TOI-134.
+This notebook allows for the creation of the most refined TESS light-curves, applying more advanced noise removal techniques and providing the user with light curve files in both FITs format and CSV. These resultant files can be found within the [lightcurve_data folder](https://github.com/tessgi/JWST-ERS-Support/tree/main/lightcurve_data). The notebook also allows for the reduction of TESS data associated with several additional planets observed as part of JWST ERS programs, including: HAT-P-14, HAT-P-18, and TOI-134.
 
 Our second set of tutorials focus on non-exoplanet science, looking at objects that vary in brightness over a period of time such as AGN or variable stars. In this repository we examine the active galaxy NGC 4151 and the variable Wolf Rayet system WR-140.
 
