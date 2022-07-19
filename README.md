@@ -27,7 +27,7 @@ The notebook creates files for all planets observed as part of JWST ERS and comm
 
 Our second set of tutorials focus on Active Galactic Nuclei. In this tutorial we examine the active galaxy NGC 4151.
 
-- NGC 4151: NGC4151.ipynb
+- NGC 4151: NGC4151.ipynb & NGC4151_modelfit.ipynb
 
 ## How do I get started with TESS Stellar data?
 
